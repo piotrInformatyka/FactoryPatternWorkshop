@@ -1,0 +1,13 @@
+C:\Users\piotr\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.exe
+C:\Users\piotr\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.deps.json
+C:\Users\piotr\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.json
+C:\Users\piotr\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.dev.json
+C:\Users\piotr\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.dll
+C:\Users\piotr\source\repos\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.pdb
+C:\Users\piotr\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csprojAssemblyReference.cache
+C:\Users\piotr\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfo.cs
+C:\Users\piotr\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.dll
+C:\Users\piotr\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.pdb
+C:\Users\piotr\source\repos\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.genruntimeconfig.cache
